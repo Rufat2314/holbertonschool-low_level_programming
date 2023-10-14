@@ -1,6 +1,8 @@
 #include <stdio.h>
 
-/* Write text through calling a function */
+/**
+ * Write text through calling a puts function 
+ */
 
 int main(void)
 {
