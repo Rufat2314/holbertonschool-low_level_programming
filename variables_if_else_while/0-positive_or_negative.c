@@ -3,8 +3,8 @@
 #include <stdio.h>
 
 /**
- * betty style doc for function main goes there 
- * 
+ * Betty style doc for function main goes there
+ *
  * Return the answer
  */
 int main(void)
