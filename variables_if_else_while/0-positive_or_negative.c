@@ -2,7 +2,11 @@
 #include <time.h>
 #include <stdio.h>
 
-/* betty style doc for function main goes there */
+/**
+ * betty style doc for function main goes there 
+ * 
+ * Return the answer
+ */
 int main(void)
 {
 	int n;
